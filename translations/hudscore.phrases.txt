@@ -11,4 +11,10 @@
 		"en" "Show Scoreboard"
 		"pt" "Mostrar Scores"
 	}
+
+	"CommandRound"
+	{
+		"en" "Show Rounds"
+		"pt" "Mostrar Rounds"
+	}
 }
