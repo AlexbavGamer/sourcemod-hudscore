@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Show Hud Scoreboard"
+	{
+		"en"			"Show Scoreboard"
+		"pt"            "Mostrar Scores"
+	}
+	
+	"CommandHud"
+	{
+		"en" "Show Scoreboard"
+		"pt" "Mostrar Scores"
+	}
+}
