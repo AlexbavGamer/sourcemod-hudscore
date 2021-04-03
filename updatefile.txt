@@ -1,0 +1,20 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.0"
+		}
+
+		"Notes" "1.0.0: "
+		"Notes" "First Release"
+	}
+
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/hudscore.smx"
+		"Plugin"	"Path_SM/translations/hudscore.phrases.txt"
+		"Source"	"Path_SM/scripting/hudscore.sp"
+	}
+}
