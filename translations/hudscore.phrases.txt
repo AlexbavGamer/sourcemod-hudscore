@@ -2,19 +2,22 @@
 {
 	"Show Hud Scoreboard"
 	{
-		"en"			"Show Scoreboard"
-		"pt"            "Mostrar Scores"
+		"en" "Show Scoreboard"
+		"pt" "Mostrar Scores"
+		"da" "Vis Scoreboard"
 	}
 	
 	"CommandHud"
 	{
 		"en" "Show Scoreboard"
 		"pt" "Mostrar Scores"
+		"da" "Vis Scoreboard"
 	}
 
 	"CommandRound"
 	{
 		"en" "Show Rounds"
 		"pt" "Mostrar Rounds"
+		"da" "Vis Runder"
 	}
 }
